@@ -1,0 +1,8 @@
+.medicalrecord-table-content {
+    display: flex;
+    justify-content: center;
+}
+
+#header-medicalrecord {
+    text-align: center; /* Center the header text */
+}
